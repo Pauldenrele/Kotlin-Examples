@@ -15,7 +15,16 @@ fun main (args: Array<String>){
     print ( "min is" + max)
 
 
+    //while
 
+    var e :Int = 0
+
+    println("Ehyo this for the while part")
+
+    while (e<10){
+        println(e)
+        e++
+    }
 //when
     val x = 9
 
@@ -46,6 +55,15 @@ fun main (args: Array<String>){
 
 
     }
+
+
+    var k :Int = 0
+
+    do {
+        k =k +10
+
+        println("The ages of the guys are --" + k)
+    }while(k <70)
 
 
 
