@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60b0cbab-94ec-4e1e-81d6-94c9b1f25978" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/rsk/new_ch1.kt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/META-INF/untitled6.kotlin_module" afterPath="$PROJECT_DIR$/out/production/untitled6/META-INF/untitled6.kotlin_module" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/a.class" afterPath="$PROJECT_DIR$/out/production/untitled6/rsk/a.class" />
+      <change beforePath="$PROJECT_DIR$/src/rsk/func_references.kt" afterPath="$PROJECT_DIR$/src/rsk/func_references.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +44,8 @@
       <file leaf-file-name="func_references.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/rsk/func_references.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="154">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -457,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548745270965</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="latest commit">
+      <created>1548745904295</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548745904296</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -515,7 +520,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <MESSAGE value="latest commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -887,8 +893,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/rsk/func_references.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

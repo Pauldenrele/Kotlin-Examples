@@ -10,6 +10,7 @@ fun main (args:Array<String>){
 
     println(list)
 
+    println(hashSetOf(list))
 
 
 }
