@@ -17,10 +17,6 @@ class realInterface:newInterface{
 
     override  var myInt:Int = 35
     override fun myAbs() :String = "This another real sturv"
-
-
-
-
 }
 
 fun main ( args: Array<String>){

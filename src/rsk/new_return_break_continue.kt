@@ -9,8 +9,8 @@ fun main ( args:Array<String>){
     for (x in 1..10){
 
         if (x ==11){
-            println("it will soon break --" + x)
 
+            println("it will soon break --" + x)
             break
         }else {
             println("It will soon break --" + x)
