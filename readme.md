@@ -24,3 +24,8 @@ Kotlin in Android -> Not always compulsory to declare Id from the XML
 Semi Colon :) -> NO MORE SEMI COLON!!! Some developers will be happy tho.
 
 
+Now Let us breifly summarize each topic
+
+Let us start with Hello World!!
+
+<font color = "red" >fun main (args: Array<String>){ print("Hello World") } </font>
