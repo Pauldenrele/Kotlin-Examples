@@ -9,6 +9,14 @@ There are a lot of examples in which you tend to learn kotlin faster in this rep
 
 Kotlin is also called the JAVA alternative
 
+
+<h3> Activating Kotlin using Android Studio </h3>
+
+Kindly disbale Android Support at the Plugin 
+
+<img src="new.jpg" alt="Kotlin">
+
+
 <h2> Advantage </h2>
 
 Concise -> It is a functional Language and it is based on JVM
@@ -23,12 +31,14 @@ Kotlin in Android -> Not always compulsory to declare Id from the XML
 
 Semi Colon :) -> NO MORE SEMI COLON!!! Some developers will be happy tho.
 
-
-Now Let us breifly summarize each topic
-
 Let us start with Hello World!!
 
 <I>fun main (args: Array<String>){
   
   print("Hello World")
   } </I>
+  
+  Kindly download the Repo to understand each Topics
+  
+  
+
