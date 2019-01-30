@@ -7,6 +7,8 @@ in the same Projects
 
 There are a lot of examples in which you tend to learn kotlin faster in this repo in which the code is self explanatry(commented explanations).
 
+Kotlin is also called the JAVA alternative
+
 <h2> Advantage </h2>
 
 Concise -> It is a functional Language and it is based on JVM
