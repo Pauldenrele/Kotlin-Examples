@@ -28,4 +28,7 @@ Now Let us breifly summarize each topic
 
 Let us start with Hello World!!
 
-<font color = "red |#FF0000" >fun main (args: Array<String>){ print("Hello World") } </font>
+<I>fun main (args: Array<String>){
+  
+  print("Hello World")
+  } </I>
