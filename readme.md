@@ -14,7 +14,7 @@ Kotlin is also called the JAVA alternative
 
 Kindly disbale Android Support at the Plugin 
 
-<img src="new.jpg" alt="Kotlin">
+<img src="/Users/PAULI/Desktop/new.jpg" alt="Kotlin">
 
 
 <h2> Advantage </h2>
