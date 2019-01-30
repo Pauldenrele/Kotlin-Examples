@@ -1,4 +1,4 @@
-package rsk
+package Delegates
 
 import kotlin.reflect.KProperty
 

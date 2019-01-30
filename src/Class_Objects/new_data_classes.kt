@@ -1,8 +1,8 @@
-package rsk
+package Class_Objects
 
 fun main(args:Array<String>){
 
-    val book : Kook = Kook("hello" , "World" , 5)
+    val book : Kook = Kook("hello", "World", 5)
 
     println("The name pof the book is " + book.name )
 

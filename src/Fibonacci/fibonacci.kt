@@ -1,4 +1,4 @@
-package rsk
+package Fibonacci
 
 fun main( args: Array<String>)
 {

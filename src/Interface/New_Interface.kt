@@ -1,4 +1,4 @@
-package rsk
+package Interface
 
 
 interface  newInterface {
@@ -13,7 +13,7 @@ interface  newInterface {
 
 }
 
-class realInterface:newInterface{
+class realInterface: newInterface {
 
     override  var myInt:Int = 35
     override fun myAbs() :String = "This another real sturv"
@@ -50,7 +50,7 @@ interface  B {
 
 }
 
-class newestInterface :A ,B
+class newestInterface : A, B
 {
     override fun A() {
         println("This is the override ")

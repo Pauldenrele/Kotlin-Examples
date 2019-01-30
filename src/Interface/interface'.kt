@@ -1,4 +1,4 @@
-package rsk
+package Interface
 
 interface mainInterface {
 
@@ -6,14 +6,14 @@ interface mainInterface {
 
 }
 
-class  fakeInterface:mainInterface{
+class  fakeInterface: mainInterface {
 
     override  fun word(): String = "I really mean you should speak the word of God"
 }
 
 fun main(args:Array<String>){
 
-    val mainWord =fakeInterface()
+    val mainWord = fakeInterface()
 
     println(mainWord.word())
 }

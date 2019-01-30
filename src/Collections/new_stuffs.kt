@@ -1,4 +1,4 @@
-package rsk
+package Collections
 
 
 // declaring var
@@ -103,7 +103,7 @@ open  class  ABC{
 
 }
 
-class BCD:ABC(){
+class BCD: ABC(){
 
 }
 
@@ -113,7 +113,7 @@ open class def{
     }
 }
 
-class ghi:def(){
+class ghi: def(){
 
    override fun think(){
         println("this is the same thing as the second one ")

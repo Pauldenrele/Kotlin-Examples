@@ -1,7 +1,7 @@
-package rsk
+package Delegates
 
 fun main (args:Array<String>){
-    val b = Student("hello" , "mana ")
+    val b = Student("hello", "mana ")
 
     val (name , don) = b
 
