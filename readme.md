@@ -15,4 +15,10 @@ Easy Language-> It is easy to learn and easy to read for quick understanding.It 
 
 Runtime->It has small runtime and a better performance
 
+New Language-> It is a brand Language that gives developers a fresh start
+
+Kotlin in Android -> Not always compulsory to declare Id from the XML 
+
+Semi Colon :) -> NO MORE SEMI COLON!!! Some developers will be happy tho.
+
 
