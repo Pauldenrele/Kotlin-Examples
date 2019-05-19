@@ -2,65 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60b0cbab-94ec-4e1e-81d6-94c9b1f25978" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Ch2.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Loops/new_return_break_continue.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Loops/push.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Visibility_Modifiers.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/newStuffs.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/rsk/newCH.kt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled6/META-INF/untitled6.kotlin_module" afterPath="$PROJECT_DIR$/out/production/untitled6/META-INF/untitled6.kotlin_module" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/A$DefaultImpls.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/ABC.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/B$DefaultImpls.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/B.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/BCD.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/Book.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/DestructingdelegatesKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/FibonacciKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/FunctionsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/Head.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/Header.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/InbuiltKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/InfixKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/InfixpracKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/Kook.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/Lambda_funcKt$main$n$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/Lambda_funcKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/New_InterfaceKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/New_data_classesKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/New_func_extensionKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/New_ifKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/New_stuffsKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/Program.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/PushKt.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/RepeatKt.class" afterPath="$PROJECT_DIR$/out/production/untitled6/rsk/RepeatKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/Sealed_classKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/Student.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/TailrecKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/a$Companion.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/a.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/alien.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/course.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/def.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/ghi.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/newInterface$DefaultImpls.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/newInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/newestInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/ops$my3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/ops$my5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/ops.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/realInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Delegates/delegates.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/enum_func.kt" afterPath="$PROJECT_DIR$/src/Functions/enum_func.kt" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/extension_func.kt" afterPath="$PROJECT_DIR$/src/Functions/extension_func.kt" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/New_Interface.kt" afterPath="$PROJECT_DIR$/src/Interface/New_Interface.kt" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/interface'.kt" afterPath="$PROJECT_DIR$/src/Interface/interface'.kt" />
-      <change beforePath="$PROJECT_DIR$/src/rsk/new_ch1.kt" afterPath="$PROJECT_DIR$/src/rsk/new_ch1.kt" />
-      <change beforePath="$PROJECT_DIR$/src/rsk/new_project_practice.kt" afterPath="$PROJECT_DIR$/src/rsk/new_project_practice.kt" />
-      <change beforePath="$PROJECT_DIR$/src/rsk/new_return_break_continue.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/rsk/push.kt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/rsk/repeat.kt" afterPath="$PROJECT_DIR$/src/rsk/repeat.kt" />
+      <change beforePath="$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt" afterPath="$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,10 +96,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_if.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="new_if.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Control_Flow/new_if.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-290">
+            <state relative-caret-position="1188">
               <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding />
             </state>
@@ -171,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class_Objects_explanation.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Class_Objects_explanation.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="416">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -243,7 +188,6 @@
         <option value="$PROJECT_DIR$/src/infix/infix.kt" />
         <option value="$PROJECT_DIR$/src/Fibonacci/tailrec.kt" />
         <option value="$PROJECT_DIR$/src/Class_Objects/inbuilt.kt" />
-        <option value="$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt" />
         <option value="$PROJECT_DIR$/src/Loops/push.kt" />
         <option value="$PROJECT_DIR$/src/rsk/new_ch1.kt" />
         <option value="$PROJECT_DIR$/src/Ch2.kt" />
@@ -255,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/Functions/enum_func.kt" />
         <option value="$PROJECT_DIR$/src/rsk/new_project_practice.kt" />
         <option value="$PROJECT_DIR$/src/newStuffs.kt" />
+        <option value="$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt" />
       </list>
     </option>
   </component>
@@ -587,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549105995866</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updated the class_objects_explanations class under the class_objects">
+      <created>1558270936248</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558270936248</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -943,14 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Interface/New_Interface.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -985,8 +929,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Control_Flow/new_if.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-290">
+        <state relative-caret-position="1188">
           <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
