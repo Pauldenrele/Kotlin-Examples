@@ -13,7 +13,7 @@ interface  newInterface {
 
 }
 
-class realInterface: newInterface {
+open class realInterface: newInterface {
 
     override  var myInt:Int = 35
     override fun myAbs() :String = "This another real sturv"

@@ -33,8 +33,11 @@ fun main (args:Array<String>){
             || mList[0] +mList[3] || mList[1] + mList[3] || mList[2] +mList[3]*/
     val k :Int = 7
 
-    when (mList[0] + mList[3] ==k || mList[2] + mList[3] ==k ){
+
+    when (  mList[0] + mList[1]==k || mList[1] +mList[2]==k ||mList[0] + mList[2]==k
+            || mList[0] +mList[3]==k || mList[1] + mList[3]==k || mList[2] +mList[3]==k ){
         true-> println(a)
+
 
         else ->{
             println(b)
@@ -60,3 +63,4 @@ fun main (args:Array<String>){
 
 
 }
+

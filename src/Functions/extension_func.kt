@@ -4,6 +4,8 @@ fun main (args:Array<String>){
 
   val exText = "There are too        much space       in       this thing"
 
+    val mute  = mutableListOf(1 , 2 ,3 ,4)
+
     println(replacethisspaces(exText))
     println(exText.replacethosespaces())
 }

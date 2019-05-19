@@ -1,10 +1,10 @@
-package rsk
+package Loops
 
 fun main ( args:Array<String>){
 
     val a :Int = 20
 
-    println("the major answer is --" + answer(a) )
+    println("the major answer is --" + answer(a))
 
     for (x in 1..10){
 
