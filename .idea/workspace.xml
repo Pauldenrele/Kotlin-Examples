@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60b0cbab-94ec-4e1e-81d6-94c9b1f25978" name="Default" comment="">
+    <list default="true" id="60b0cbab-94ec-4e1e-81d6-94c9b1f25978" name="Default" comment="Updated the class_objects_explanations class under the class_objects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/META-INF/untitled6.kotlin_module" afterPath="$PROJECT_DIR$/out/production/untitled6/META-INF/untitled6.kotlin_module" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled6/rsk/RepeatKt.class" afterPath="$PROJECT_DIR$/out/production/untitled6/rsk/RepeatKt.class" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt" afterPath="$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_if.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="new_if.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Control_Flow/new_if.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
+            <state relative-caret-position="948">
               <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding />
             </state>
@@ -116,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class_Objects_explanation.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Class_Objects_explanation.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
+            <state relative-caret-position="467">
               <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
@@ -539,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558270936248</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated the class_objects_explanations class under the class_objects">
+      <created>1558271065912</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558271065912</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -927,18 +931,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Control_Flow/new_if.kt">
+    <entry file="file://$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="467">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class_Objects/Class_Objects_explanation.kt">
+    <entry file="file://$PROJECT_DIR$/src/Control_Flow/new_if.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="948">
+          <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding />
         </state>
       </provider>
