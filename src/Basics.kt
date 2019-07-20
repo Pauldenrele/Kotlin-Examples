@@ -91,7 +91,8 @@ fun main(args: Array<String>){
     answer.getInfo()
 
 
-
+val bowser = Yam("Lion " , 40 , 50 , 90.0,"Me")
+    bowser.getInfo()
 
 
 }
@@ -117,6 +118,20 @@ open class  Animal(val name :String , val age:Int , val height:Int , val weight:
     open fun getInfo():Unit{
         println("Name: $name , Age: $age , Height: $height , Weight : $weight")
     }
+
+
+}
+
+
+
+class Yam (name:String , age: Int,  height:Int , weight: Double , val owner :String):
+        Animal(name  , age , height , weight ){
+
+
+    override fun getInfo() {
+        println("Name: $name , Age: $age , Height: $height , Weight : $weight")
+    }
+
 
 
 }
